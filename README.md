@@ -12,5 +12,3 @@ The Employee Management System (EMS) is a web application built to streamline HR
 - Backend: Java Spring Boot / .NET Core
 - Database: MySQL / SQL Server
 - Version Control: Git & GitHub
-
-
