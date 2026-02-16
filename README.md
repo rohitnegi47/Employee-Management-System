@@ -18,22 +18,4 @@ The Employee Management System (EMS) is a web application built to streamline HR
 ⚙️ Setup Instructions
 - Clone the repository:
 git clone https://github.com/your-username/Employee-Management-System.git
-- Backend setup:
-- Configure database connection in application.properties (Spring Boot) or appsettings.json (.NET Core).
-- Run the backend server.
-- Frontend setup:
-npm install
-ng serve
 
-- Access the app at http://localhost:4200.
-📂 Project StructureEmployee-Management-System/
-│── backend/        # APIs and business logic
-│── frontend/       # Angular UI
-│── database/       # SQL scripts
-│── README.md       # Documentation
-🤝 Contributing
-Contributions are welcome!- Fork the repo
-- Create a feature branch
-- Commit changes
-- Open a Pull Request
-📜 LicenseThis project is licensed under the MIT License.
