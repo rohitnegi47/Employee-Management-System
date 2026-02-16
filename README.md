@@ -13,7 +13,4 @@ The Employee Management System (EMS) is a web application built to streamline HR
 - Database: MySQL / SQL Server
 - Version Control: Git & GitHub
 
-⚙️ Setup Instructions
-- Clone the repository:
-git clone https://github.com/your-username/Employee-Management-System.git
 
